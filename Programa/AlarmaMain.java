@@ -1,3 +1,10 @@
+/**
+ * Clase principal del programa
+ * @author: Oscar Juarez - 17315
+ * @version: 13.10317
+ * POO
+ */
+
 // CC2006 Lab
 // Este programa cliente prueba el comportamiento de su clase AlarmaEmergencia.
 
